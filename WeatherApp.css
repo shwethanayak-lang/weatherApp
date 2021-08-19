@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Carrois+Gothic&display=swap");
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+body{
+    background-image: url("https://source.unsplash.com/1600x900/?nature,water");
+}
+.box{
+    background-image:#fff;  
+    width:100%;
+    height:auto;
+}
